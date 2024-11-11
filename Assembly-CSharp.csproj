@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Doors\DoorKeyItem.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerScore.cs" />
     <Compile Include="Assets\Scripts\Doors\DoorTrigger.cs" />
+    <Compile Include="Assets\Scripts\Level\NuevoScriptPrueba.cs" />
     <Compile Include="Assets\Scripts\Level\EndZoneBehaviour.cs" />
     <Compile Include="Assets\Scripts\MenuScripts\MainMenuBehaviour.cs" />
     <Compile Include="Assets\Scripts\Doors\DoorTimed.cs" />
